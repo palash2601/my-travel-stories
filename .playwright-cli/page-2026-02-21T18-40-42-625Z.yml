@@ -1,0 +1,39 @@
+- generic [ref=e2]:
+  - navigation [ref=e3]:
+    - link "ViaEuropa" [ref=e4] [cursor=pointer]:
+      - /url: /
+  - main [ref=e5]:
+    - generic [ref=e6]:
+      - img "Europe" [ref=e10]
+      - generic [ref=e12]:
+        - paragraph [ref=e13]: European Travel Advisory
+        - heading "Discover Europe as it was meant to be" [level=1] [ref=e14]:
+          - text: Discover
+          - emphasis [ref=e15]: Europe
+          - text: as it was meant to be
+        - paragraph [ref=e16]: Curated itineraries crafted by expert travellers. Every detail considered, every moment unforgettable.
+        - button "Explore Destinations ↓" [active] [ref=e17] [cursor=pointer]
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - paragraph [ref=e20]: Our Destinations
+        - heading "Choose Your Country" [level=2] [ref=e21]
+      - button "🇨🇭 Switzerland +" [ref=e35] [cursor=pointer]:
+        - generic [ref=e36]:
+          - generic [ref=e37]: 🇨🇭
+          - generic [ref=e38]: Switzerland
+        - generic [ref=e40]: +
+      - button "🇳🇱 Netherlands +" [ref=e42] [cursor=pointer]:
+        - generic [ref=e43]:
+          - generic [ref=e44]: 🇳🇱
+          - generic [ref=e45]: Netherlands
+        - generic [ref=e47]: +
+      - button "🇮🇹 Italy +" [ref=e49] [cursor=pointer]:
+        - generic [ref=e50]:
+          - generic [ref=e51]: 🇮🇹
+          - generic [ref=e52]: Italy
+        - generic [ref=e54]: +
+    - generic [ref=e29]:
+      - link "ViaEuropa" [ref=e30] [cursor=pointer]:
+        - /url: /
+      - paragraph [ref=e31]: Crafting unforgettable European journeys since 2012. Every itinerary personally vetted by our travel specialists.
+      - paragraph [ref=e33]: © 2025 ViaEuropa. All rights reserved.

@@ -1,0 +1,23 @@
+- generic [ref=e2]:
+  - navigation [ref=e3]:
+    - link "ViaEuropa" [ref=e4] [cursor=pointer]:
+      - /url: /
+  - main [ref=e5]:
+    - generic [ref=e6]:
+      - img "Europe" [ref=e9]
+      - generic [ref=e11]:
+        - paragraph [ref=e12]: European Travel Advisory
+        - heading "Discover Europe as it was meant to be" [level=1] [ref=e13]:
+          - text: Discover
+          - emphasis [ref=e14]: Europe
+          - text: as it was meant to be
+        - paragraph [ref=e15]: Curated itineraries crafted by expert travellers. Every detail considered, every moment unforgettable.
+        - button "Explore Destinations ↓" [ref=e16] [cursor=pointer]
+    - generic [ref=e18]:
+      - paragraph [ref=e19]: Our Destinations
+      - heading "Choose Your Country" [level=2] [ref=e20]
+    - generic [ref=e28]:
+      - link "ViaEuropa" [ref=e29] [cursor=pointer]:
+        - /url: /
+      - paragraph [ref=e30]: Crafting unforgettable European journeys since 2012. Every itinerary personally vetted by our travel specialists.
+      - paragraph [ref=e32]: © 2025 ViaEuropa. All rights reserved.

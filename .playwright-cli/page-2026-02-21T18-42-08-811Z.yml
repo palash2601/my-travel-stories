@@ -1,0 +1,53 @@
+- generic [ref=e2]:
+  - navigation [ref=e3]:
+    - link "ViaEuropa" [ref=e4] [cursor=pointer]:
+      - /url: /
+  - main [ref=e5]:
+    - generic [ref=e6]:
+      - img "Europe" [ref=e9]
+      - generic [ref=e11]:
+        - paragraph [ref=e12]: European Travel Advisory
+        - heading "Discover Europe as it was meant to be" [level=1] [ref=e13]:
+          - text: Discover
+          - emphasis [ref=e14]: Europe
+          - text: as it was meant to be
+        - paragraph [ref=e15]: Curated itineraries crafted by expert travellers. Every detail considered, every moment unforgettable.
+        - button "Explore Destinations ↓" [ref=e16] [cursor=pointer]
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - paragraph [ref=e19]: Our Destinations
+        - heading "Choose Your Country" [level=2] [ref=e20]
+      - button "🇨🇭 Switzerland +" [ref=e34] [cursor=pointer]:
+        - generic [ref=e35]:
+          - generic [ref=e36]: 🇨🇭
+          - generic [ref=e37]: Switzerland
+        - generic [ref=e39]: +
+      - button "🇳🇱 Netherlands +" [ref=e41] [cursor=pointer]:
+        - generic [ref=e42]:
+          - generic [ref=e43]: 🇳🇱
+          - generic [ref=e44]: Netherlands
+        - generic [ref=e46]: +
+      - generic [ref=e47]:
+        - button "🇮🇹 Italy +" [active] [ref=e48] [cursor=pointer]:
+          - generic [ref=e49]:
+            - generic [ref=e50]: 🇮🇹
+            - generic [ref=e51]: Italy
+          - generic [ref=e53]: +
+        - generic [ref=e56]:
+          - button "Rome, Florence & Tuscany 10 Days Rome, Florence & Tuscany →" [ref=e57] [cursor=pointer]:
+            - img "Rome, Florence & Tuscany" [ref=e60]
+            - generic [ref=e61]:
+              - generic [ref=e63]: 10 Days
+              - generic [ref=e64]: Rome, Florence & Tuscany
+            - generic [ref=e65]: →
+          - button "Venice & Amalfi Coast 7 Days Venice & Amalfi Coast →" [ref=e66] [cursor=pointer]:
+            - img "Venice & Amalfi Coast" [ref=e69]
+            - generic [ref=e70]:
+              - generic [ref=e72]: 7 Days
+              - generic [ref=e73]: Venice & Amalfi Coast
+            - generic [ref=e74]: →
+    - generic [ref=e28]:
+      - link "ViaEuropa" [ref=e29] [cursor=pointer]:
+        - /url: /
+      - paragraph [ref=e30]: Crafting unforgettable European journeys since 2012. Every itinerary personally vetted by our travel specialists.
+      - paragraph [ref=e32]: © 2025 ViaEuropa. All rights reserved.

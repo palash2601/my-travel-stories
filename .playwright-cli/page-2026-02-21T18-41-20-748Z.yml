@@ -1,0 +1,46 @@
+- generic [ref=e2]:
+  - navigation [ref=e3]:
+    - link "ViaEuropa" [ref=e4] [cursor=pointer]:
+      - /url: /
+  - main [ref=e5]:
+    - generic [ref=e241]:
+      - img "Europe" [ref=e244]
+      - generic [ref=e246]:
+        - paragraph [ref=e247]: European Travel Advisory
+        - heading "Discover Europe as it was meant to be" [level=1] [ref=e248]:
+          - text: Discover
+          - emphasis [ref=e249]: Europe
+          - text: as it was meant to be
+        - paragraph [ref=e250]: Curated itineraries crafted by expert travellers. Every detail considered, every moment unforgettable.
+        - button "Explore Destinations ↓" [ref=e251] [cursor=pointer]
+    - generic [ref=e252]:
+      - generic [ref=e253]:
+        - paragraph [ref=e254]: Our Destinations
+        - heading "Choose Your Country" [level=2] [ref=e255]
+      - button "🇨🇭 Switzerland +" [ref=e257] [cursor=pointer]:
+        - generic [ref=e258]:
+          - generic [ref=e259]: 🇨🇭
+          - generic [ref=e260]: Switzerland
+        - generic [ref=e262]: +
+      - generic [ref=e263]:
+        - button "🇳🇱 Netherlands +" [active] [ref=e264] [cursor=pointer]:
+          - generic [ref=e265]:
+            - generic [ref=e266]: 🇳🇱
+            - generic [ref=e267]: Netherlands
+          - generic [ref=e269]: +
+        - button "Amsterdam & Beyond 5 Days Amsterdam & Beyond →" [ref=e285] [cursor=pointer]:
+          - img "Amsterdam & Beyond" [ref=e288]
+          - generic [ref=e289]:
+            - generic [ref=e291]: 5 Days
+            - generic [ref=e292]: Amsterdam & Beyond
+          - generic [ref=e293]: →
+      - button "🇮🇹 Italy +" [ref=e271] [cursor=pointer]:
+        - generic [ref=e272]:
+          - generic [ref=e273]: 🇮🇹
+          - generic [ref=e274]: Italy
+        - generic [ref=e276]: +
+    - generic [ref=e278]:
+      - link "ViaEuropa" [ref=e279] [cursor=pointer]:
+        - /url: /
+      - paragraph [ref=e280]: Crafting unforgettable European journeys since 2012. Every itinerary personally vetted by our travel specialists.
+      - paragraph [ref=e282]: © 2025 ViaEuropa. All rights reserved.
