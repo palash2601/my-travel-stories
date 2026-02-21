@@ -188,7 +188,7 @@ export function CountryAccordion({ country, isOpen, onToggle, onItineraryClick }
   const [hovered, setHovered] = useState(false);
 
   return (
-    <div style={{ borderTop: "1px solid var(--border)" }}>
+    <div id={`country-${country.id}`} style={{ borderTop: "1px solid var(--border)" }}>
       <button
         onClick={onToggle}
         onMouseEnter={() => setHovered(true)}
